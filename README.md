@@ -1,5 +1,5 @@
 # Step to run the project
-Open the index.html open the preview in browser
+Open the index.html, then open the preview in browser
 
 # Project description
 Its a webpage for a sample courier service agency, build with Bootstrap components.
